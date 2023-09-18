@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\wilmer.odin\\Documents\\ProgrammeringKurs\\Quiz\\QuizYes\\QuizYes.csproj": {}
+    "C:\\Users\\wilmer.odin\\Documents\\ProgrammeringKurs\\Quiz\\QuizYes\\QuizYes.csproj": {}
   },
   "projects": {
-    "c:\\Users\\wilmer.odin\\Documents\\ProgrammeringKurs\\Quiz\\QuizYes\\QuizYes.csproj": {
+    "C:\\Users\\wilmer.odin\\Documents\\ProgrammeringKurs\\Quiz\\QuizYes\\QuizYes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\wilmer.odin\\Documents\\ProgrammeringKurs\\Quiz\\QuizYes\\QuizYes.csproj",
+        "projectUniqueName": "C:\\Users\\wilmer.odin\\Documents\\ProgrammeringKurs\\Quiz\\QuizYes\\QuizYes.csproj",
         "projectName": "QuizYes",
-        "projectPath": "c:\\Users\\wilmer.odin\\Documents\\ProgrammeringKurs\\Quiz\\QuizYes\\QuizYes.csproj",
+        "projectPath": "C:\\Users\\wilmer.odin\\Documents\\ProgrammeringKurs\\Quiz\\QuizYes\\QuizYes.csproj",
         "packagesPath": "C:\\Users\\wilmer.odin\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\wilmer.odin\\Documents\\ProgrammeringKurs\\Quiz\\QuizYes\\obj\\",
+        "outputPath": "C:\\Users\\wilmer.odin\\Documents\\ProgrammeringKurs\\Quiz\\QuizYes\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

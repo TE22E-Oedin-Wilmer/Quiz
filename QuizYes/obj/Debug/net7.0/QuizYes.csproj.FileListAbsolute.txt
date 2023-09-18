@@ -1,0 +1,14 @@
+C:\Users\wilmer.odin\Documents\ProgrammeringKurs\Quiz\QuizYes\obj\Debug\net7.0\QuizYes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wilmer.odin\Documents\ProgrammeringKurs\Quiz\QuizYes\obj\Debug\net7.0\QuizYes.AssemblyInfoInputs.cache
+C:\Users\wilmer.odin\Documents\ProgrammeringKurs\Quiz\QuizYes\obj\Debug\net7.0\QuizYes.AssemblyInfo.cs
+C:\Users\wilmer.odin\Documents\ProgrammeringKurs\Quiz\QuizYes\obj\Debug\net7.0\QuizYes.csproj.CoreCompileInputs.cache
+C:\Users\wilmer.odin\Documents\ProgrammeringKurs\Quiz\QuizYes\bin\Debug\net7.0\QuizYes.exe
+C:\Users\wilmer.odin\Documents\ProgrammeringKurs\Quiz\QuizYes\bin\Debug\net7.0\QuizYes.deps.json
+C:\Users\wilmer.odin\Documents\ProgrammeringKurs\Quiz\QuizYes\bin\Debug\net7.0\QuizYes.runtimeconfig.json
+C:\Users\wilmer.odin\Documents\ProgrammeringKurs\Quiz\QuizYes\bin\Debug\net7.0\QuizYes.dll
+C:\Users\wilmer.odin\Documents\ProgrammeringKurs\Quiz\QuizYes\bin\Debug\net7.0\QuizYes.pdb
+C:\Users\wilmer.odin\Documents\ProgrammeringKurs\Quiz\QuizYes\obj\Debug\net7.0\QuizYes.dll
+C:\Users\wilmer.odin\Documents\ProgrammeringKurs\Quiz\QuizYes\obj\Debug\net7.0\refint\QuizYes.dll
+C:\Users\wilmer.odin\Documents\ProgrammeringKurs\Quiz\QuizYes\obj\Debug\net7.0\QuizYes.pdb
+C:\Users\wilmer.odin\Documents\ProgrammeringKurs\Quiz\QuizYes\obj\Debug\net7.0\QuizYes.genruntimeconfig.cache
+C:\Users\wilmer.odin\Documents\ProgrammeringKurs\Quiz\QuizYes\obj\Debug\net7.0\ref\QuizYes.dll
